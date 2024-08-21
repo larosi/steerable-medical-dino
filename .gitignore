@@ -9,3 +9,4 @@ plots/*
 *.txt
 *.html
 *.csv
+*.egg-info
