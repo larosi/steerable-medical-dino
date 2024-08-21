@@ -1,0 +1,11 @@
+# ignore everything in the following folders
+data/*
+models/*
+metrics/*
+plots/*
+.spyproject/*
+*__pycache__*
+# ignore extensions
+*.txt
+*.html
+*.csv
