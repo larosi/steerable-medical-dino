@@ -3,7 +3,7 @@
 ## 1. Setup
 
 ```bash
-pip git+https://github.com/larosi/steerable-medical-dino.git
+pip install git+https://github.com/larosi/steerable-medical-dino.git
 ```
 
 ## 2. How to use it
