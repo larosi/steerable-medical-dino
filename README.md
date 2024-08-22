@@ -1,4 +1,6 @@
-# steerable-medical-dino
+# Steerable Medical Dino
+
+![Rotational equivariant Patch Embeddings](https://raw.githubusercontent.com/larosi/steerable-medical-dino/main/docs/sdino-rotation_equivariant.gif)
 
 ## 1. Setup
 
