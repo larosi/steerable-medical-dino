@@ -10,7 +10,7 @@ pip install git+https://github.com/larosi/steerable-medical-dino.git
 
 ## 2. How to use it
 ```python
-from medical_sdino import load_sdino, get_transforms
+from smdino.medical_sdino import load_sdino, get_transforms
 
 transforms = get_transforms(img_size=448)
 model_path = r'models\model.pth'
